@@ -1,0 +1,46 @@
+.container{
+background-color:#EADDCA;;	
+width:1200px;
+margin:0 auto;
+padding:10px;
+}
+
+body{ 
+Background-color:#EADDCA;
+Color:#800000;
+font-family:Times New Roman;
+margin: 0; 
+border-style: solid;
+border-width: 4px;
+} 
+   p{
+Background-color:#EADDCA;
+Color:#000000;
+font-family:Times New Roman;
+margin: 0;
+
+
+}
+.secondDiv > h1{
+Background-color:#EADDCA;
+color:#800000;
+font-family:Times New Roman;
+margin: 0;
+
+}
+h2{
+Color:#000000;
+font-family:Times New Roman;
+margin: 0;
+}
+h3{
+Color:#000000;
+font-family:Times New Roman;
+margin: 0;
+}
+li{
+Color:#000000;
+font-family:Times New Roman;
+margin: 0;
+}
+
