@@ -1,0 +1,57 @@
+body {
+  background color:#FFA07A;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+
+}
+
+li {
+  display: inline-block;
+  margin-right: 20px;
+}
+body{
+  background-color:#e4ded8;
+  border: 6px solid black;
+
+}
+.one{
+      border:3px solid black;
+      font-size: 20px;
+      padding:10px;
+      display:inline-block;
+    
+    }
+    .two{
+      border:3px solid black;
+      font-size: 20px;
+      padding:10px;
+      display:inline-block;
+    
+    }
+    .three{
+      border:3px solid black;
+      font-size: 20px;
+      padding:10px;
+      display:inline-block;
+    
+    }
+    .four{
+      border:3px solid black;
+      font-size: 20px;
+      padding:10px;
+      display:inline-block;
+    
+    }
+    .five{
+      border:3px solid black;
+      font-size: 20px;
+      padding:10px;
+      display:inline-block;
+    
+    }
+    
